@@ -55,12 +55,13 @@ I am a new-era **AI Operator and Vibe Coder**. Instead of spending weeks manuall
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 Highlights & Engineering Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sirahmed8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sir Ahmed's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirahmed8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+- 🚀 **4+ Production Web Applications** Designed, Built & Shipped with AI Steering
+- ⚡ **Sub-48h Concept-to-Production Velocity** Across Full-Stack Stacks
+- 🌐 **Native Bilingual UI/UX** (Arabic RTL & English Ergonomics)
+- 🛡️ **Zero-Mock Persistence** (Production Firebase, PostgreSQL, IndexedDB)
+- 🤖 **Universal Agent Rules Author** Invited to the Agensi.io Global Ecosystem
 
 ---
 
