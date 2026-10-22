@@ -126,6 +126,24 @@ I am an **Autonomous AI Operator and Vibe Coder**. Instead of spending weeks man
 - **Stack**: TypeScript, Schema.org Semantic Web, Firebase Hosting.
 - **Key Features**: Instant APA 7th, IEEE, BibTeX, and Schema.org ScholarlyArticle metadata generation.
 
+### 🎮 [SIR Mods for GTA V (Live Platform)](https://sir-mods-for-gta-v.web.app)
+*Desktop mod manager, dynamic vehicle physics & script distribution suite.*
+- **Live Platform**: [Launch GTA V Hub](https://sir-mods-for-gta-v.web.app)
+- **Stack**: Vite, React, Electron, Firebase Hosting.
+- **Key Features**: Sub-second mod staging, script validation, game state hooks.
+
+### 🧱 [SIR ModPack (Live Portal)](https://sir-modpack.web.app)
+*Modular ecosystem client & server orchestrator.*
+- **Live Platform**: [Launch ModPack Portal](https://sir-modpack.web.app)
+- **Stack**: Next.js, React, Firebase Cloud.
+- **Key Features**: High-performance instance switcher, zero-lag asset patcher.
+
+### 🧠 [SIR Odysseus AI (Live Workspace)](https://sir-odysseus-app.web.app)
+*Self-hosted autonomous AI workspace for agents, research, and models.*
+- **Live Platform**: [Launch Odysseus Workspace](https://sir-odysseus-app.web.app)
+- **Stack**: Python, FastAPI, Electron, Firebase Cloud.
+- **Key Features**: Local model inference, RAG memory vectors, subscription tier guardrails.
+
 ### 📦 Antigravity Agent Suite
 *Universal AI agent behavior rules and modular skills ecosystem.*
 - **Distinction**: Invited to be listed on the **Agensi.io** global AI agent marketplace.
