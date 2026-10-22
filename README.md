@@ -23,6 +23,12 @@ I am an **Autonomous AI Operator and Vibe Coder**. Instead of spending weeks man
 
 ---
 
+## 🔒 Proprietary Software & Closed-Source Architecture
+
+> **Notice**: All applications, repositories, and software platforms developed by Ahmed Alaa (SIR Suite) are **Proprietary, Closed-Source Commercial Products**. Source code is strictly private. Live demonstrations, enterprise subscriptions, customer portals, and commercial partnerships are accessible through the production links below.
+
+---
+
 ## 📊 GitHub Analytics & Velocity
 
 <p align="center">
@@ -64,39 +70,51 @@ I am an **Autonomous AI Operator and Vibe Coder**. Instead of spending weeks man
 
 ---
 
-## 🚀 The SIR Shipped Product Portfolio
+## 🚀 The SIR Shipped Product Portfolio (Live Production Platforms)
 
-### 🏛️ [Obour Academic Hub](https://github.com/sirahmed8/obour-academic-hub)
+### 🏛️ [Obour Academic Hub](https://obour-academic-hub.vercel.app)
 *An intelligent, automated academic portal built for computer science students.*
-- **Stack**: Next.js 15, React, Tailwind CSS, Firebase Firestore & Authentication.
+- **Live Platform**: [Launch Web Portal](https://obour-academic-hub.vercel.app) • [Firebase Cloud](https://obourinstitutes1.web.app)
+- **Stack**: Next.js 15, React 19, Tailwind CSS, Firebase Firestore & Authentication.
 - **Key Features**: Student dashboard, automated Moodle LMS sync, instant lecture summaries, full Arabic RTL UI.
 
-### ⚽ [EGFootball5](https://github.com/sirahmed8/EGFootball5) & [11Players](https://github.com/sirahmed8/11Players)
+### ⚽ [11Players](https://11-players.vercel.app) & [EGFootball5](https://egfootball5.vercel.app)
 *On-demand 5-a-side football pitch reservation & tournament platform with local fintech integration.*
-- **Stack**: Next.js 15, Vercel, Tailwind CSS.
+- **Live Platform**: [Launch 11Players](https://11-players.vercel.app) • [Launch EGFootball5](https://egfootball5.vercel.app) • [Cloud App](https://an-11-players.web.app)
+- **Stack**: Next.js 15, Vercel Edge, Tailwind CSS, Firebase backend.
 - **Key Features**: Seamless InstaPay and Vodafone Cash payment flows, instant booking confirmations, QR-code entry tickets.
 
-### 🤖 [SIR AI & Autonomous Jarvis OS](https://github.com/sirahmed8)
+### 🤖 [SIR AI & Autonomous Jarvis OS](https://sir-ai-official.web.app)
 *Personal AI executive assistant and PC automation controller.*
+- **Platform**: [Enterprise Portal](https://sir-ai-official.web.app)
 - **Stack**: Python, FastAPI, C# launcher, SQLite vector memory (`jarvis_memory.db`).
 - **Key Features**: Bidirectional Chrome browser bridge, system health guardian, autonomous 6-hour task cycles.
 
-### 🎬 [SIR Content Creation Studio](https://github.com/sirahmed8)
+### 🎬 [SIR Content Creation Studio](https://sir-content-creation-studio.web.app)
 *High-velocity programmatic video generation engine.*
+- **Platform**: [Studio Hub](https://sir-content-creation-studio.web.app)
 - **Stack**: Node.js, Remotion, FFmpeg, Python.
 - **Key Features**: Automated social shorts, kinetic typography, multi-platform publishing pipelines.
 
-### 🎮 [SIR Controller](https://github.com/sirahmed8) & [SIR Optimizer](https://github.com/sirahmed8/sir-optimizer)
+### 🎮 [SIR Controller](https://sir-optimizer.vercel.app) & [SIR Optimizer](https://sir-optimizer-prod.web.app)
 *High-performance Windows gaming input driver & latency reduction engine.*
-- **Stack**: C# / .NET, Win32 APIs, ViGEm Bus.
-- **Key Features**: Virtual gamepad emulation, custom deadzones, sub-millisecond input polling.
+- **Live Platform**: [Optimizer Portal](https://sir-optimizer.vercel.app) • [Cloud Releases](https://sir-optimizer-prod.web.app)
+- **Stack**: C# / .NET 9, Win32 APIs, ViGEm Bus, Next.js 16.
+- **Key Features**: Virtual gamepad emulation, custom deadzones, sub-millisecond 1000Hz input polling.
 
-### 🍽️ [Restaurant OS](https://github.com/sirahmed8/restaurant-os) & [SIR Market](https://github.com/sirahmed8/sir-market)
+### 🍽️ [Restaurant OS](https://sir-restaurant-app.web.app) & [SIR Market](https://sir-market.web.app)
 *High-velocity offline-first POS & cashier digital operations suite.*
+- **Live Platform**: [Launch Restaurant OS](https://sir-restaurant-app.web.app) • [Launch SIR Market POS](https://sir-market.web.app)
 - **Stack**: Vite, React, IndexedDB / local cache resilience, bilingual interface.
 - **Key Features**: Sub-second order taking, table management, offline transaction durability.
 
-### 📦 [Antigravity Agent Suite](https://github.com/sirahmed8/antigravity-agent-suite)
+### 🛋️ [Negm Furniture Luxury Showcase](https://negm-furniture-eg.web.app)
+*Bespoke luxury furniture digital catalog and e-commerce experience.*
+- **Live Platform**: [Explore Catalog](https://negm-furniture-eg.web.app)
+- **Stack**: Next.js 15, TypeScript, Tailwind CSS, Firebase Cloud.
+- **Key Features**: Interactive product visualizer, responsive mobile ergonomics, high-contrast dark aesthetic.
+
+### 📦 Antigravity Agent Suite
 *Universal AI agent behavior rules and modular skills ecosystem.*
 - **Distinction**: Invited to be listed on the **Agensi.io** global AI agent marketplace.
 - **Key Features**: 92 modular skills, token-smart AST analysis, cross-IDE rule synchronization.
