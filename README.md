@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sirahmed8"><img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Alaa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sir1ahmed1"><img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Alaa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://linktr.ee/sir.ahmed"><img src="https://img.shields.io/badge/Portfolio-Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" /></a>
   <a href="mailto:a7medorabe7@gmail.com"><img src="https://img.shields.io/badge/Email-a7medorabe7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/sirahmed8"><img src="https://img.shields.io/github/followers/sirahmed8?label=Followers&style=for-the-badge&color=238636&logo=github" alt="GitHub Followers" /></a>
@@ -164,7 +164,7 @@ I am an **Autonomous AI Operator and Vibe Coder**. Instead of spending weeks man
 
 ## 📫 Let's Connect & Build Together
 
-- **LinkedIn**: [linkedin.com/in/sirahmed8](https://www.linkedin.com/in/sirahmed8)
+- **LinkedIn**: [linkedin.com/in/sir1ahmed1](https://www.linkedin.com/in/sir1ahmed1)
 - **Email**: [a7medorabe7@gmail.com](mailto:a7medorabe7@gmail.com)
 - **WhatsApp / Phone**: `+20 115 757 6883`
 - **Location**: Greater Cairo, Egypt (UTC+2 / UTC+3)
