@@ -96,9 +96,9 @@ I am an **Autonomous AI Operator and Vibe Coder**. Instead of spending weeks man
 - **Stack**: Node.js, Remotion, FFmpeg, Python.
 - **Key Features**: Automated social shorts, kinetic typography, multi-platform publishing pipelines.
 
-### 🎮 [SIR Controller](https://sir-optimizer.vercel.app) & [SIR Optimizer](https://sir-optimizer-prod.web.app)
+### 🎮 [SIR Controller](https://sir-controller-app.web.app) & [SIR Optimizer](https://sir-optimizer.web.app)
 *High-performance Windows gaming input driver & latency reduction engine.*
-- **Live Platform**: [Optimizer Portal](https://sir-optimizer.vercel.app) • [Cloud Releases](https://sir-optimizer-prod.web.app)
+- **Live Platform**: [Launch Controller Cloud](https://sir-controller-app.web.app) • [Launch Optimizer Portal](https://sir-optimizer.web.app) • [Cloud Releases](https://sir-optimizer-prod.web.app)
 - **Stack**: C# / .NET 9, Win32 APIs, ViGEm Bus, Next.js 16.
 - **Key Features**: Virtual gamepad emulation, custom deadzones, sub-millisecond 1000Hz input polling.
 
@@ -144,10 +144,11 @@ I am an **Autonomous AI Operator and Vibe Coder**. Instead of spending weeks man
 - **Stack**: Python, FastAPI, Electron, Firebase Cloud.
 - **Key Features**: Local model inference, RAG memory vectors, subscription tier guardrails.
 
-### 📦 Antigravity Agent Suite
-*Universal AI agent behavior rules and modular skills ecosystem.*
+### 📦 [Antigravity Agent Suite](https://sir-agent-suite.web.app)
+*Universal AI agent behavior rules and modular skills operating system.*
+- **Live Platform**: [Launch Showcase Portal](https://sir-agent-suite.web.app)
 - **Distinction**: Invited to be listed on the **Agensi.io** global AI agent marketplace.
-- **Key Features**: 92 modular skills, token-smart AST analysis, cross-IDE rule synchronization.
+- **Key Features**: 92 modular skills, token-smart AST analysis, cross-IDE rule synchronization, 1-click automated installer.
 
 ---
 
