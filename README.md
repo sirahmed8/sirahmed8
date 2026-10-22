@@ -114,6 +114,18 @@ I am an **Autonomous AI Operator and Vibe Coder**. Instead of spending weeks man
 - **Stack**: Next.js 15, TypeScript, Tailwind CSS, Firebase Cloud.
 - **Key Features**: Interactive product visualizer, responsive mobile ergonomics, high-contrast dark aesthetic.
 
+### 💊 [SIR Pharmacy Clinical Radar](https://sir-pharmacy-app.web.app)
+*Clinical drug interaction screener, contraindication radar & digital pharmacy operations.*
+- **Live Platform**: [Launch Pharmacy Radar](https://sir-pharmacy-app.web.app)
+- **Stack**: TypeScript, Clean Domain Architecture, Firebase Hosting.
+- **Key Features**: Real-time DDI contraindication detection, patient allergy screening, controlled schedule drug tracking.
+
+### 📚 [SIR Library Scholarly Engine](https://sir-library-app.web.app)
+*Scholarly citation generator, BibTeX exporter & academic knowledge graph.*
+- **Live Platform**: [Launch Library Engine](https://sir-library-app.web.app)
+- **Stack**: TypeScript, Schema.org Semantic Web, Firebase Hosting.
+- **Key Features**: Instant APA 7th, IEEE, BibTeX, and Schema.org ScholarlyArticle metadata generation.
+
 ### 📦 Antigravity Agent Suite
 *Universal AI agent behavior rules and modular skills ecosystem.*
 - **Distinction**: Invited to be listed on the **Agensi.io** global AI agent marketplace.
