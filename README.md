@@ -138,6 +138,12 @@ I am an **Autonomous AI Operator and Vibe Coder**. Instead of spending weeks man
 - **Stack**: Python, FastAPI, Electron, Firebase Cloud.
 - **Key Features**: Local model inference, RAG memory vectors, subscription tier guardrails.
 
+### 📱 [SIR Tele Gateway](https://github.com/sirahmed8/sir-tele-gateway)
+*Autonomous sovereign 2-way mobile bridge & workstation orchestrator.*
+- **Platform**: [Mobile Gateway Hub](https://github.com/sirahmed8/sir-tele-gateway) • Proprietary Workstation Daemon
+- **Stack**: Python 3.12, FastAPI, SQLite (WAL Mode), Telegram Bot API, Antigravity Bridge.
+- **Key Features**: Live thought & tool execution streaming (`💭`, `⚡`, `⏱️`), full voice note & media ingress, sub-second sovereign authorization, and remote workstation control.
+
 ### 📦 [Antigravity Agent Suite](https://sir-agent-suite.web.app)
 *Universal AI agent behavior rules and modular skills operating system.*
 - **Live Platform**: [Launch Showcase Portal](https://sir-agent-suite.web.app)
