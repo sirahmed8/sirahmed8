@@ -120,11 +120,11 @@ I am an **Autonomous AI Operator and Vibe Coder**. Instead of spending weeks man
 - **Stack**: TypeScript, Clean Domain Architecture, Firebase Hosting.
 - **Key Features**: Real-time DDI contraindication detection, patient allergy screening, controlled schedule drug tracking.
 
-### 📚 [SIR Library Scholarly Engine](https://sir-library-app.web.app)
-*Scholarly citation generator, BibTeX exporter & academic knowledge graph.*
-- **Live Platform**: [Launch Library Engine](https://sir-library-app.web.app)
-- **Stack**: TypeScript, Schema.org Semantic Web, Firebase Hosting.
-- **Key Features**: Instant APA 7th, IEEE, BibTeX, and Schema.org ScholarlyArticle metadata generation.
+### 📚 [SIR Library OS & Coworking Space](https://sir-library-app.web.app)
+*Enterprise physical library management, rental POS, shelf AISLE GPS & study hall floor map.*
+- **Live Platform**: [Launch Library OS](https://sir-library-app.web.app)
+- **Stack**: Vite, React 19, Zustand 5, Tailwind CSS v4, ESC/POS 80mm receipt engine.
+- **Key Features**: Book rental cashier with refundable deposits, overdue fine radar (10 EGP/day), interactive 2D study hall floor map, student barcode CRM, and blind shift drawer (Z-Report).
 
 ### 🎮 [SIR Mods for GTA V (Live Platform)](https://sir-mods-for-gta-v.web.app)
 *Desktop mod manager, dynamic vehicle physics & script distribution suite.*
