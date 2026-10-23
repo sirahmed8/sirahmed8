@@ -108,12 +108,6 @@ I am an **Autonomous AI Operator and Vibe Coder**. Instead of spending weeks man
 - **Stack**: Vite, React, IndexedDB / local cache resilience, bilingual interface.
 - **Key Features**: Sub-second order taking, table management, offline transaction durability.
 
-### 🛋️ [Negm Furniture Luxury Showcase](https://negm-furniture-eg.web.app)
-*Bespoke luxury furniture digital catalog and e-commerce experience.*
-- **Live Platform**: [Explore Catalog](https://negm-furniture-eg.web.app)
-- **Stack**: Next.js 15, TypeScript, Tailwind CSS, Firebase Cloud.
-- **Key Features**: Interactive product visualizer, responsive mobile ergonomics, high-contrast dark aesthetic.
-
 ### 💊 [SIR Pharmacy Clinical Radar](https://sir-pharmacy-app.web.app)
 *Clinical drug interaction screener, contraindication radar & digital pharmacy operations.*
 - **Live Platform**: [Launch Pharmacy Radar](https://sir-pharmacy-app.web.app)
