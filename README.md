@@ -54,7 +54,7 @@ I am an **Autonomous AI Operator and Vibe Coder**. Instead of spending weeks man
        ▼                   ▼                   ▼
 ┌──────────────┐    ┌──────────────┐    ┌──────────────┐
 │  Frontend    │    │   Backend    │    │   Desktop    │
-│  Next.js 15+ │    │  Firebase    │    │   C# / .NET  │
+│  Next.js 16+ │    │  Firebase    │    │   C# / .NET  │
 │  React 19    │    │  Supabase    │    │   Python     │
 │  Tailwind    │    │  FastAPI     │    │   ViGEm Bus  │
 └──────────────┘    └──────────────┘    └──────────────┘
@@ -63,7 +63,7 @@ I am an **Autonomous AI Operator and Vibe Coder**. Instead of spending weeks man
 | Category | Technologies & Frameworks |
 | :--- | :--- |
 | **AI Coding Agents** | Google Antigravity, Claude Code, Cursor AI, GitHub Copilot, v0 by Vercel, Bolt.new |
-| **Frontend & Web** | Next.js 15+ (App Router), React 19, TypeScript, Tailwind CSS, Framer Motion, Emil Spring Physics |
+| **Frontend & Web** | Next.js 16+ (App Router), React 19, TypeScript, Tailwind CSS, Framer Motion, Emil Spring Physics |
 | **Backend & Cloud** | Firebase (Firestore, Auth, App Hosting), Supabase, FastAPI (Python), RESTful APIs, Vercel Edge |
 | **Desktop & Systems** | C# / .NET 9, WinUI 3, WinForms, Python (PyWin32, Playwright, Uvicorn), Windhawk C++ Engine |
 | **Automation & Orchestration** | n8n, Webhooks, Python daemons, TickTick CLI, GitHub Actions, Chrome Remote Protocol |
@@ -111,7 +111,7 @@ I am an **Autonomous AI Operator and Vibe Coder**. Instead of spending weeks man
 ### 🛋️ [Negm Furniture Luxury Showcase](https://negm-furniture-eg.web.app)
 *Bespoke luxury furniture digital catalog and e-commerce experience.*
 - **Live Platform**: [Explore Catalog](https://negm-furniture-eg.web.app)
-- **Stack**: Next.js 15, TypeScript, Tailwind CSS, Firebase Cloud.
+- **Stack**: Next.js 16, TypeScript, Tailwind CSS, Firebase Cloud.
 - **Key Features**: Interactive product visualizer, responsive mobile ergonomics, high-contrast dark aesthetic.
 
 ### 💊 [SIR Pharmacy Clinical Radar](https://sir-pharmacy-app.web.app)
