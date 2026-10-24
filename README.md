@@ -1,4 +1,4 @@
-﻿# Hi there, I'm Ahmed Alaa (Sir Ahmed) 👋
+# Hi there, I'm Ahmed Alaa (Sir Ahmed) 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Lead+AI+Operator+%26+Vibe+Coder;Founder+of+SIR+Software+Suite;Shipping+Production+Apps+with+Autonomous+Agents;Sophomore+CS+at+Higher+Obour+Institute" alt="Typing SVG" />
@@ -143,12 +143,6 @@ I am an **Autonomous AI Operator and Vibe Coder**. Instead of spending weeks man
 - **Live Platform**: [Launch Odysseus Workspace](https://sir-odysseus-app.web.app)
 - **Stack**: Python, FastAPI, Electron, Firebase Cloud.
 - **Key Features**: Local model inference, RAG memory vectors, subscription tier guardrails.
-
-### 📱 [SIR Tele Gateway](https://github.com/sirahmed8/sir-tele-gateway)
-*Autonomous sovereign 2-way mobile bridge & workstation orchestrator.*
-- **Platform**: [Mobile Gateway Hub](https://github.com/sirahmed8/sir-tele-gateway) • Proprietary Workstation Daemon
-- **Stack**: Python 3.12, FastAPI, SQLite (WAL Mode), Telegram Bot API, Antigravity Bridge.
-- **Key Features**: Live thought & tool execution streaming (`💭`, `⚡`, `⏱️`), full voice note & media ingress, sub-second sovereign authorization, and remote workstation control.
 
 ### 📦 [Antigravity Agent Suite](https://sir-agent-suite.web.app)
 *Universal AI agent behavior rules and modular skills operating system.*
