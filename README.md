@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmed Alaa (Sir Ahmed) 👋
+﻿# Hi there, I'm Ahmed Alaa (Sir Ahmed) 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Lead+AI+Operator+%26+Vibe+Coder;Founder+of+SIR+Software+Suite;Shipping+Production+Apps+with+Autonomous+Agents;Sophomore+CS+at+Higher+Obour+Institute" alt="Typing SVG" />
@@ -18,7 +18,7 @@
 I am an **Autonomous AI Operator and Vibe Coder**. Instead of spending weeks manually handwriting repetitive boilerplate, I steer high-reasoning coding models (**Google Antigravity, Claude Code, Cursor AI, GitHub Copilot, v0, Bolt.new**) to architect, prototype, and ship full-stack web applications, POS systems, desktop utilities, and automated pipelines in record time.
 
 - 🎓 **Education**: Sophomore (2nd Year) Computer Science student at **Higher Obour Institute for Management & Computers** (2025–2029).
-- 🏆 **Community & Milestones**: ALX AI Career Essentials graduate, ICPC / ECPC 2026 Qualification contestant (Team PS code), GDG DevFest Cairo attendee.
+- 🏆 **Community & Milestones**: ICPC / ECPC 2026 Qualification contestant (Team PS code), GDG DevFest Cairo attendee, AI Operator & Startup Builder.
 - 💡 **Core Law**: *"Idea to live production URL in hours, not months. Strict typing, real persistence, tactile ergonomics, and zero fake data."*
 
 ---
@@ -71,6 +71,12 @@ I am an **Autonomous AI Operator and Vibe Coder**. Instead of spending weeks man
 ---
 
 ## 🚀 The SIR Shipped Product Portfolio (Live Production Platforms)
+
+### 📱 [Tele Gateway](https://sir-tele-gateway.web.app) (v1.0.0)
+*Sovereign Mobile AI Gateway & Desktop Workstation Orchestrator.*
+- **Live Platform**: [Launch Web Portal](https://sir-tele-gateway.web.app)
+- **Stack**: Electron, Node.js, Python (Starlette/Uvicorn), SQLite WAL, Telegram Bot API.
+- **Key Features**: Direct bi-directional remote execution between Telegram and Google Antigravity CLI, zero cloud subscription fees, strict cryptographic single-user whitelist, live workstation HUD with telemetry and thinking stream, silent background sentinels with system tray integration.
 
 ### 🏛️ [Obour Academic Hub](https://obour-academic-hub.vercel.app)
 *An intelligent, automated academic portal built for computer science students.*
