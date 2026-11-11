@@ -6,10 +6,11 @@ Computer science student at Higher Obour Institute, Egypt.
 Website (English and Arabic): https://sir-portfolio-site.web.app/en/
 CV: https://sir-portfolio-site.web.app/en/cv/
 Facts with sources and dates: https://sir-portfolio-site.web.app/en/facts/
+Notes on how I build: https://sir-portfolio-site.web.app/en/notes/
 
 ## What I am doing now
 
-I am rebuilding my set of products from zero under one standard: study tools, booking, small-business tools, a mod manager, a performance client and a personal AI workstation. I only call a product finished after I have watched it work from start to end. Today none is finished, and the website shows each one with its honest status.
+I direct AI agents to build a set of products: study tools, booking, small-business tools, a mod manager, a performance client and a personal AI workstation. I hold every one to one shared standard, and I only call a product finished after I have watched it work from start to end. Today none is finished, and the website shows each one with its honest status.
 
 ## How I work
 
@@ -37,4 +38,4 @@ I am rebuilding my set of products from zero under one standard: study tools, bo
 
 الموقع بالعربية: https://sir-portfolio-site.web.app/ar/
 
-أعيد الآن بناء منتجاتي من الصفر بمعيار واحد، ولا أسمّي منتجاً مكتملاً قبل أن أراه يعمل من البداية للنهاية. اليوم لا يوجد منتج مكتمل، ويعرض الموقع كل منتج بحالته الصادقة.
+أوجّه وكلاء الذكاء الاصطناعي لبناء مجموعة منتجات بمعيار واحد مشترك، ولا أسمّي منتجاً مكتملاً قبل أن أراه يعمل من البداية للنهاية. اليوم لا يوجد منتج مكتمل، ويعرض الموقع كل منتج بحالته الصادقة.
