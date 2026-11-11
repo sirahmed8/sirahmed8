@@ -1,171 +1,40 @@
-# Hi there, I'm Ahmed Alaa (Sir Ahmed) 👋
+# Ahmed Alaa
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Lead+AI+Operator+%26+Vibe+Coder;Founder+of+SIR+Software+Suite;Shipping+Production+Apps+with+Autonomous+Agents;Sophomore+CS+at+Higher+Obour+Institute" alt="Typing SVG" />
-</p>
+**Vibe Coder.** I direct AI agents to design, build, test and ship real products, and I review every result myself.
+Computer science student at Higher Obour Institute, Egypt.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sir1ahmed1"><img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Alaa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://linktr.ee/sir.ahmed"><img src="https://img.shields.io/badge/Portfolio-Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" /></a>
-  <a href="mailto:a7medorabe7@gmail.com"><img src="https://img.shields.io/badge/Email-a7medorabe7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/sirahmed8"><img src="https://img.shields.io/github/followers/sirahmed8?label=Followers&style=for-the-badge&color=238636&logo=github" alt="GitHub Followers" /></a>
-</p>
+Website (English and Arabic): https://sir-portfolio-site.web.app/en/
+CV: https://sir-portfolio-site.web.app/en/cv/
+Facts with sources and dates: https://sir-portfolio-site.web.app/en/facts/
 
----
+## What I am doing now
 
-## ⚡ About Me & Engineering Philosophy
+I am rebuilding my set of products from zero under one standard: study tools, booking, small-business tools, a mod manager, a performance client and a personal AI workstation. I only call a product finished after I have watched it work from start to end. Today none is finished, and the website shows each one with its honest status.
 
-I am an **Autonomous AI Operator and Vibe Coder**. Instead of spending weeks manually handwriting repetitive boilerplate, I steer high-reasoning coding models (**Google Antigravity, Claude Code, Cursor AI, GitHub Copilot, v0, Bolt.new**) to architect, prototype, and ship full-stack web applications, POS systems, desktop utilities, and automated pipelines in record time.
+## How I work
 
-- 🎓 **Education**: Sophomore (2nd Year) Computer Science student at **Higher Obour Institute for Management & Computers** (2025–2029).
-- 🏆 **Community & Milestones**: ICPC / ECPC 2026 Qualification contestant (Team PS code), GDG DevFest Cairo attendee, AI Operator & Startup Builder.
-- 💡 **Core Law**: *"Idea to live production URL in hours, not months. Strict typing, real persistence, tactile ergonomics, and zero fake data."*
+1. I write the brief.
+2. AI agents build in small steps.
+3. I review the result on screen, in Arabic and in English, on phone and desktop sizes.
+4. Anything wrong goes back to the agent.
+5. A written checkpoint after every step lets any agent continue.
 
----
+## Open to
 
-## 🔒 Proprietary Software & Closed-Source Architecture
+- Websites and web apps built with AI agents
+- Remote AI data training and prompt evaluation
+- Automation of repeated work
 
-> **Notice**: All applications, repositories, and software platforms developed by Ahmed Alaa (SIR Suite) are **Proprietary, Closed-Source Commercial Products**. Source code is strictly private. Live demonstrations, enterprise subscriptions, customer portals, and commercial partnerships are accessible through the production links below.
+## Contact
 
----
-
-## 📊 GitHub Analytics & Velocity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sirahmed8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Ahmed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirahmed8&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="Ahmed's Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirahmed8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="48%" />
-</p>
+- Email: a7medorabe7@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sir1ahmed1/
+- Telegram: https://t.me/sir1ahmed1
 
 ---
 
-## 🛠️ The SIR Tech Stack & AI Toolchain
+**أحمد علاء، Vibe Coder.** أوجّه وكلاء الذكاء الاصطناعي لتصميم منتجات حقيقية وبنائها واختبارها وإطلاقها، وأراجع كل نتيجة بنفسي. طالب علوم حاسب في معهد العبور العالي، مصر.
 
-```
-┌────────────────────────────────────────────────────────┐
-│               AI Steering & Autonomous Agents          │
-│   Google Antigravity • Claude Code • Cursor AI • v0    │
-└──────────────────────────┬─────────────────────────────┘
-                           │
-       ┌───────────────────┼───────────────────┐
-       ▼                   ▼                   ▼
-┌──────────────┐    ┌──────────────┐    ┌──────────────┐
-│  Frontend    │    │   Backend    │    │   Desktop    │
-│  Next.js 16+ │    │  Firebase    │    │   C# / .NET  │
-│  React 19    │    │  Supabase    │    │   Python     │
-│  Tailwind    │    │  FastAPI     │    │   ViGEm Bus  │
-└──────────────┘    └──────────────┘    └──────────────┘
-```
+الموقع بالعربية: https://sir-portfolio-site.web.app/ar/
 
-| Category | Technologies & Frameworks |
-| :--- | :--- |
-| **AI Coding Agents** | Google Antigravity, Claude Code, Cursor AI, GitHub Copilot, v0 by Vercel, Bolt.new |
-| **Frontend & Web** | Next.js 16+ (App Router), React 19, TypeScript, Tailwind CSS, Framer Motion, Emil Spring Physics |
-| **Backend & Cloud** | Firebase (Firestore, Auth, App Hosting), Supabase, FastAPI (Python), RESTful APIs, Vercel Edge |
-| **Desktop & Systems** | C# / .NET 9, WinUI 3, WinForms, Python (PyWin32, Playwright, Uvicorn), Windhawk C++ Engine |
-| **Automation & Orchestration** | n8n, Webhooks, Python daemons, TickTick CLI, GitHub Actions, Chrome Remote Protocol |
-
----
-
-## 🚀 The SIR Shipped Product Portfolio (Live Production Platforms)
-
-### 📱 [Tele Gateway](https://sir-tele-gateway.web.app) (v1.0.0)
-*Sovereign Mobile AI Gateway & Desktop Workstation Orchestrator.*
-- **Live Platform**: [Launch Web Portal](https://sir-tele-gateway.web.app)
-- **Stack**: Electron, Node.js, Python (Starlette/Uvicorn), SQLite WAL, Telegram Bot API.
-- **Key Features**: Direct bi-directional remote execution between Telegram and Google Antigravity CLI, zero cloud subscription fees, strict cryptographic single-user whitelist, live workstation HUD with telemetry and thinking stream, silent background sentinels with system tray integration.
-
-### 🏛️ [Obour Academic Hub](https://obour-academic-hub.vercel.app)
-*An intelligent, automated academic portal built for computer science students.*
-- **Live Platform**: [Launch Web Portal](https://obour-academic-hub.vercel.app) • [Firebase Cloud](https://obourinstitutes1.web.app)
-- **Stack**: Next.js 15, React 19, Tailwind CSS, Firebase Firestore & Authentication.
-- **Key Features**: Student dashboard, automated Moodle LMS sync, instant lecture summaries, full Arabic RTL UI.
-
-### ⚽ [11Players](https://11-players.vercel.app) & [EGFootball5](https://egfootball5.vercel.app)
-*On-demand 5-a-side football pitch reservation & tournament platform with local fintech integration.*
-- **Live Platform**: [Launch 11Players](https://11-players.vercel.app) • [Launch EGFootball5](https://egfootball5.vercel.app) • [Cloud App](https://an-11-players.web.app)
-- **Stack**: Next.js 15, Vercel Edge, Tailwind CSS, Firebase backend.
-- **Key Features**: Seamless InstaPay and Vodafone Cash payment flows, instant booking confirmations, QR-code entry tickets.
-
-### 🤖 [SIR AI & Autonomous Jarvis OS](https://sir-ai-official.web.app)
-*Personal AI executive assistant and PC automation controller.*
-- **Platform**: [Enterprise Portal](https://sir-ai-official.web.app)
-- **Stack**: Python, FastAPI, C# launcher, SQLite vector memory (`jarvis_memory.db`).
-- **Key Features**: Bidirectional Chrome browser bridge, system health guardian, autonomous 6-hour task cycles.
-
-### 🎬 [SIR Content Creation Studio](https://sir-content-creation-studio.web.app)
-*High-velocity programmatic video generation engine.*
-- **Platform**: [Studio Hub](https://sir-content-creation-studio.web.app)
-- **Stack**: Node.js, Remotion, FFmpeg, Python.
-- **Key Features**: Automated social shorts, kinetic typography, multi-platform publishing pipelines.
-
-### 🎮 [SIR Controller](https://sir-controller-app.web.app) & [SIR Optimizer](https://sir-optimizer.web.app)
-*High-performance Windows gaming input driver & latency reduction engine.*
-- **Live Platform**: [Launch Controller Cloud](https://sir-controller-app.web.app) • [Launch Optimizer Portal](https://sir-optimizer.web.app) • [Cloud Releases](https://sir-optimizer-prod.web.app)
-- **Stack**: C# / .NET 9, Win32 APIs, ViGEm Bus, Next.js 16.
-- **Key Features**: Virtual gamepad emulation, custom deadzones, sub-millisecond 1000Hz input polling.
-
-### 🍽️ [Restaurant OS](https://sir-restaurant-app.web.app) & [SIR Market](https://sir-market.web.app)
-*High-velocity offline-first POS & cashier digital operations suite.*
-- **Live Platform**: [Launch Restaurant OS](https://sir-restaurant-app.web.app) • [Launch SIR Market POS](https://sir-market.web.app)
-- **Stack**: Vite, React, IndexedDB / local cache resilience, bilingual interface.
-- **Key Features**: Sub-second order taking, table management, offline transaction durability.
-
-### 💊 [SIR Pharmacy Clinical Radar](https://sir-pharmacy-app.web.app)
-*Clinical drug interaction screener, contraindication radar & digital pharmacy operations.*
-- **Live Platform**: [Launch Pharmacy Radar](https://sir-pharmacy-app.web.app)
-- **Stack**: TypeScript, Clean Domain Architecture, Firebase Hosting.
-- **Key Features**: Real-time DDI contraindication detection, patient allergy screening, controlled schedule drug tracking.
-
-### 📚 [SIR Library OS & Coworking Space](https://sir-library-app.web.app)
-*Enterprise physical library management, rental POS, shelf AISLE GPS & study hall floor map.*
-- **Live Platform**: [Launch Library OS](https://sir-library-app.web.app)
-- **Stack**: Vite, React 19, Zustand 5, Tailwind CSS v4, ESC/POS 80mm receipt engine.
-- **Key Features**: Book rental cashier with refundable deposits, overdue fine radar (10 EGP/day), interactive 2D study hall floor map, student barcode CRM, and blind shift drawer (Z-Report).
-
-### 🎮 [SIR Mods for GTA V (Live Platform)](https://sir-mods-for-gta-v.web.app)
-*Desktop mod manager, dynamic vehicle physics & script distribution suite.*
-- **Live Platform**: [Launch GTA V Hub](https://sir-mods-for-gta-v.web.app)
-- **Stack**: Vite, React, Electron, Firebase Hosting.
-- **Key Features**: Sub-second mod staging, script validation, game state hooks.
-
-### 🧱 [SIR ModPack (Live Portal)](https://sir-modpack.web.app)
-*Modular ecosystem client & server orchestrator.*
-- **Live Platform**: [Launch ModPack Portal](https://sir-modpack.web.app)
-- **Stack**: Next.js, React, Firebase Cloud.
-- **Key Features**: High-performance instance switcher, zero-lag asset patcher.
-
-### 🧠 [SIR Odysseus AI (Live Workspace)](https://sir-odysseus-app.web.app)
-*Self-hosted autonomous AI workspace for agents, research, and models.*
-- **Live Platform**: [Launch Odysseus Workspace](https://sir-odysseus-app.web.app)
-- **Stack**: Python, FastAPI, Electron, Firebase Cloud.
-- **Key Features**: Local model inference, RAG memory vectors, subscription tier guardrails.
-
-### 📦 [Antigravity Agent Suite](https://sir-agent-suite.web.app)
-*Universal AI agent behavior rules and modular skills operating system.*
-- **Live Platform**: [Launch Showcase Portal](https://sir-agent-suite.web.app)
-- **Distinction**: Invited to be listed on the **Agensi.io** global AI agent marketplace.
-- **Key Features**: 92 modular skills, token-smart AST analysis, cross-IDE rule synchronization, 1-click automated installer.
-
----
-
-## 🏆 Engineering Highlights & Metrics
-
-- 🚀 **8+ Production Applications** Shipped via AI Steering
-- ⚡ **Sub-48h Concept-to-Production Velocity** Across Full-Stack Stacks
-- 🌐 **Native Bilingual UI/UX** (Arabic RTL & English Ergonomics)
-- 🛡️ **Zero-Mock Persistence Standard** (Production Firebase, PostgreSQL, SQLite, IndexedDB)
-- 🤖 **Universal Agent Rules Author** Recognized in Global AI Developer Ecosystems
-
----
-
-## 📫 Let's Connect & Build Together
-
-- **LinkedIn**: [linkedin.com/in/sir1ahmed1](https://www.linkedin.com/in/sir1ahmed1)
-- **Email**: [a7medorabe7@gmail.com](mailto:a7medorabe7@gmail.com)
-- **WhatsApp / Phone**: `+20 115 757 6883`
-- **Location**: Greater Cairo, Egypt (UTC+2 / UTC+3)
-- **Open To**: Remote AI Data Training & Prompt Evaluation ($20–$45/hr), Vibe Coding Web Projects, Prompt Engineering & Autonomous Automation Contracts.
+أعيد الآن بناء منتجاتي من الصفر بمعيار واحد، ولا أسمّي منتجاً مكتملاً قبل أن أراه يعمل من البداية للنهاية. اليوم لا يوجد منتج مكتمل، ويعرض الموقع كل منتج بحالته الصادقة.
